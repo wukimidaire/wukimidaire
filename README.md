@@ -18,7 +18,7 @@ Action-oriented data professional specializing in end-to-end customer journey an
 
 ---
 
-## Technical Proficiency
+## Technical Skills
 
 ### Programming & Query Languages
 - **SQL**
