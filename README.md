@@ -57,17 +57,11 @@ Action-oriented data professional specializing in end-to-end customer journey an
 
 ## Portfolio Highlights
 
-- **Save The Crops**: A computer vision project to identify plant diseases from leaf images. [View Repo](https://github.com/wukimidaire/save_the_crops_front)
-- **Postgres Templates**: A versatile boilerplate database collection designed for multi-purpose applications. [View Repo](https://github.com/wukimidaire/postgres_table_templates)
+- **Save The Crops:** A computer vision project to identify plant diseases from leaf images. [View Repo](https://github.com/wukimidaire/save_the_crops_front)
+  
+- **Postgres Templates:** A versatile boilerplate database collection designed for multi-purpose applications. [View Repo](https://github.com/wukimidaire/postgres_table_templates)
 
- 
-- **LinkedIn Ad Library Crawler** | Data Collection Framework
-  - [View Project](https://github.com/wukimidaire/linkedin_ads_scraper)
-  - **Tech Stack**: Python, FastAPI, Playwright, Docker, CI/CD
-  - **Key Features**:
-    - Automated collection of LinkedIn Ad Library data
-    - Asynchronous crawling with parallel processing
-
+- **LinkedIn Ad Library Crawler:** Production grade API scraper [View Repo](https://github.com/wukimidaire/linkedin_ads_scraper)
 
 - **Data Collection & Market Research Project**: .NET Market
     - **Repository:** [BelgianNETAnalysis](https://github.com/wukimidaire/BelgianNETAnalysis)
