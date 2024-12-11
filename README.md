@@ -103,7 +103,8 @@ Action-oriented data professional specializing in end-to-end customer journey an
   - Identified pre-qualified prospects by analyzing competitor audience engagement, reducing CAC by targeting prospects already in awareness stage and achieving 10x faster time-to-market
   - Levering existing customer networks for 10x testimonial impact
 
-### Predictive Analytics: Leveraged digital footprint collected data for customer clustering and predictive scoring, enabling targeted outreach to high-match prospects based on successful customer characteristics
+### Predictive Analytics:
+Leveraged digital footprint collected data for customer clustering and predictive scoring, enabling targeted outreach to high-match prospects based on successful customer characteristics
 
 ### Revenue Operations Analyst | willow
 - **September 2022 - June 2024**
