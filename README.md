@@ -139,8 +139,7 @@ Leveraged digital footprint collected data for customer clustering and predictiv
 
 ### Hogeschool Gent - Business Administration and Management
 
-
-- **Certifications**:
+### Certifications
   - dbt Core & Cloud Certified
   - Revenue Architecture Certified Expert
   - Introduction to Digital Transformation with Google Cloud
