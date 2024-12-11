@@ -5,12 +5,12 @@ Action-oriented data professional specializing in end-to-end customer journey an
 ---
 
 ## Core Competencies
-- **Data Capture & Engineering**: Built data pipelines processing millions of records using Airbyte, dbt, PostgreSQL, BigQuery.
-- **Strategic Analysis**: Developed unified operating model connecting marketing, sales, CS, product, and revenue data.
-- **Visualization**: Created interactive dashboards using Metabase, Streamlit, HubSpot CRM for operational insights.
-- **Advanced Analytics**: Implemented predictive models for customer segmentation and lead scoring.
-- **Client Communication**: Led workshops, requirement gathering sessions, and strategic planning with stakeholders.
-- **Languages**: Native Dutch, Fluent English.
+- **Data Capture & Engineering**: Data pipelines processing millions of records using Airbyte, dbt, PostgreSQL, BigQuery
+- **Holistic Strategy**: Unified operating model connecting marketing, sales, CS, product, and revenue data
+- **Visualization**: Insights driven dashboards using Metabase, Streamlit, HubSpot CRM Dashboards
+- **Advanced Analytics**: Customer Clusters, predictive GTM strategies and lead scoring
+- **Client Communication**: Workshop Innitiation, strategy alignemnt with stakeholders
+- **Languages**: Native Dutch, Fluent English
 
 ---
 
@@ -23,7 +23,7 @@ Action-oriented data professional specializing in end-to-end customer journey an
 
 ### Development & Infrastructure
 - **DBT (Certified)**
-- **BigQuery**
+- **BigQuery (GCP)**
 - **PostgreSQL**
 - **Airbyte**
 - **GitHub**
@@ -33,13 +33,12 @@ Action-oriented data professional specializing in end-to-end customer journey an
 ### Analytics & ML Tools
 - **Jupyter/Colab**
 - **scikit-learn**
-- **Pandas**
-- **Seaborn**
 - **TensorFlow**
+- **Seaborn**
 
 ### Automation & MLOps
-- **Make.com**
 - **n8n.io**
+- **Make.com**
 - **MLflow**
 - **Prefect**
 - **Langchain**
@@ -94,12 +93,12 @@ Action-oriented data professional specializing in end-to-end customer journey an
 - **October 2024 - Present**
 - **Digital Footprint Crawling**: Engineered advanced systems to collect and analyze comprehensive company and profile data. [This repo is used for data storage](https://github.com/wukimidaire/postgres_table_templates)
 - **Strategic Impact**:
-  - Increased LinkedIn brand awareness by 500% MoM through targeted campaigns
+  - Increased LinkedIn Awareness Campaigns by 500% MoM through account targetting
   - Identified pre-qualified prospects by analyzing competitor audience engagement, reducing CAC by targeting prospects already in awareness stage and achieving 10x faster time-to-market
   - Levering existing customer networks for 10x testimonial impact
-
-### Predictive Analytics:
-Leveraged digital footprint collected data for customer clustering and predictive scoring, enabling targeted outreach to high-match prospects based on successful customer characteristics
+  - Agentic Sales Research Assistant & Cold email writer
+- **Predictive Analytics:**
+  - Leveraged digital footprint data for customer clustering, predictive GTM scoring
 
 ### Revenue Operations Analyst | willow
 - **September 2022 - June 2024**
@@ -109,11 +108,9 @@ Leveraged digital footprint collected data for customer clustering and predictiv
   - Led cross-functional digital transformation initiatives across sales, marketing, and product teams
   - Implemented multi-channel marketing performance dashboards
 
-### Predictive Analytics: Developed ML-based lead scoring system optimizing sales team efficiency
-
 ### Sales Operations & Sales Lead | willow
 - **May 2020 - August 2022**
-- **Data Analysis**: Achieved 26.86% reply rate on email campaigns (n=14,626) through continuous testing and optimization. 
+- **Data Analysis**: Achieved 26.86% reply rate on email campaigns (n=14,626) through continuous testing and optimization
 - **Process Automation**: Reduced prospecting time by 40% for 7-person sales team through automated data workflows (300+ hours saved monthly)
 - **Strategic Impact**: Generated 75%+ revenue from data-driven outbound motions
 
@@ -150,4 +147,4 @@ Leveraged digital footprint collected data for customer clustering and predictiv
 - **Automated manual data processing for 7-person sales team, reducing time by 60% (300+ hours saved monthly)**
 - **Increased marketing qualified leads by 45% using predictive scoring**
 - **Built automated TAM (total addressable market) data research system, continuously updating CRM with latest company information**
-- **Generated €1.44M in pipeline revenue as first commercial hire at B2B SaaS startup**
+- **Generated €1.44M in pipeline (1Y) revenue as first commercial hire at B2B SaaS startup**
