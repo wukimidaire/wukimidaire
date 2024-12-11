@@ -69,7 +69,7 @@ Action-oriented data professional specializing in end-to-end customer journey an
 
 - **Postgres Templates**: A versatile boilerplate database collection designed for multiple applications. [View Repository](https://github.com/wukimidaire/postgres_table_templates)
   - **Applications**:
-    - **Data Collection**: Digital footprint scraping and storage.
+    - **Data Collection**: Digital footprint scraped data.
     - **Predictive Analytics**: Utilizes CRM customer data for clustering and applies collected data for predictive scoring on targeted companies.
     - **Agentic Framework**: Provides a structured database foundation.
     - **CRM Data Enrichment**
