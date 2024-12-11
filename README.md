@@ -81,6 +81,15 @@ Action-oriented data professional specializing in end-to-end customer journey an
   - **Stack**: PostgreSQL, Python, SQLAlchemy.
   - **Features**: Modular design, templatized workflows, automated validation, data integrity checks.
   - **Impact**: Accelerated client delivery times and enhanced contributions to the open-source community.
+ 
+- **LinkedIn Ad Library Crawler** | Data Collection Framework
+  - [View Project](https://github.com/wukimidaire/linkedin_ads_scraper)
+  - **Tech Stack**: Python, FastAPI, Playwright, Docker
+  - **Key Features**:
+    - Automated collection of LinkedIn Ad Library data
+    - Asynchronous crawling with parallel processing
+    - Structured JSON output with detailed metrics
+    - Rate limiting and retry mechanisms
 
 
 - **Data Mining Project**: .NET Market
