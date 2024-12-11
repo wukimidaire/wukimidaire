@@ -58,7 +58,6 @@ Action-oriented data professional specializing in end-to-end customer journey an
 
 ## Portfolio Highlights
 
-### Machine Learning Projects
 - **Save The Crops**: A computer vision project to identify plant diseases from leaf images. [Save The Crops Repo](https://github.com/wukimidaire/save_the_crops_front)
   - **End Project**: Completed as part of the Machine Learning & Data Science bootcamp at Le Wagon, 2024 Q1.
   - **Built CNN model achieving 95%+ accuracy on 20,000+ plant disease images.**
