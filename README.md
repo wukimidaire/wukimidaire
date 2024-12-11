@@ -67,17 +67,13 @@ Action-oriented data professional specializing in end-to-end customer journey an
   - **Impact**: Potential 30% reduction in crop loss through early disease detection.
 
 
-- **Postgres Templates**: A versatile boilerplate database collection designed for multiple applications. [View Repository](https://github.com/wukimidaire/postgres_table_templates)
+- **Postgres Templates**: A versatile boilerplate database collection designed for multi-prupose applications. [View Repository](https://github.com/wukimidaire/postgres_table_templates)
   - **Applications**:
-    - **Data Ingestion**: Digital footprint data storage.
+    - **Data Ingestion**: Digital footprint data storage
     - **CRM Data Enrichment**
-    - **Agentic Boilerplate**: Provides a solid structured database foundation.
-    - **Predictive Analytics**: Utilizes CRM customer data for clustering and applies collected data for predictive scoring on targeted companies.
-    
-    
-  - **Stack**: PostgreSQL, Python, SQLAlchemy.
-  - **Features**: Modular design, templatized workflows, automated validation, data integrity checks.
-  - **Impact**: Client-agnostic template system for rapid deployment. Contribution to the open-source community.
+    - **Agentic Boilerplate**: Provides a solid structured database foundation
+    - **Predictive Analytics**: Clustering customer data & Predictive GTM Strategies for Marketing and Sales
+  - **Impact**: Client-agnostic template system for rapid deployment. Contribution to open-source community
  
 - **LinkedIn Ad Library Crawler** | Data Collection Framework
   - [View Project](https://github.com/wukimidaire/linkedin_ads_scraper)
@@ -89,11 +85,6 @@ Action-oriented data professional specializing in end-to-end customer journey an
 
 - **Data Collection & Market Research Project**: .NET Market
     - **Repository:** [BelgianNETAnalysis](https://github.com/wukimidaire/BelgianNETAnalysis)
-
-### Data Applications (Streamlit)
-- **Marketing Attribution Dashboard**: Real-time campaign performance tracking
-- **Agentic Configuration interface for data mining & ML-Powered Customer Segmentation & Lead Scoring System**: Audience insights and automated qualification ()
-- **Crop Disease Detection Interface**: Computer vision model deployment with interactive UI (https://github.com/wukimidaire/SAVE_THE_CROPS_FRONT)
 
 ---
 
