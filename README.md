@@ -63,7 +63,7 @@ Action-oriented data professional specializing in end-to-end customer journey an
 
 - **LinkedIn Ad Library Crawler:** Production grade API scraper [View Repo](https://github.com/wukimidaire/linkedin_ads_scraper)
 
-- **.NET Market Research Project & Data Collection**: [View Repo](https://github.com/wukimidaire/BelgianNETAnalysis)
+- **.NET TAM Research & Data Collection**: [View Repo](https://github.com/wukimidaire/BelgianNETAnalysis)
 
 ---
 
