@@ -72,7 +72,7 @@ Action-oriented data professional specializing in end-to-end customer journey an
   - **Impact**: Potential 30% reduction in crop loss through early disease detection.
 
 
-- **Postgres Table Templates Framework**: A versatile boilerplate database collection designed for multiple applications. [View Repository](https://github.com/wukimidaire/postgres_table_templates)
+- **Postgres Templates**: A versatile boilerplate database collection designed for multiple applications. [View Repository](https://github.com/wukimidaire/postgres_table_templates)
   - **Applications**:
     - **Data Collection**: Digital footprint scraping and storage.
     - **Predictive Analytics**: Utilizes CRM customer data for clustering and applies collected data for predictive scoring on targeted companies.
