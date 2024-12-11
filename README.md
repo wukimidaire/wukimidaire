@@ -21,41 +21,41 @@ Action-oriented data professional specializing in end-to-end customer journey an
 ## Technical Proficiency
 
 ### Programming & Query Languages
-- **SQL** (+++)
-- **Python** (++)
-- **TypeScript** (+)
+- **SQL**
+- **Python**
+- **TypeScript**
 
 ### Development & Infrastructure
-- **DBT (Certified)** (+++)
-- **BigQuery** (+++)
-- **PostgreSQL** (+++)
-- **Airbyte** (+++)
-- **GitHub** (++)
-- **Docker** (++)
-- **FastAPI** (++)
+- **DBT (Certified)**
+- **BigQuery**
+- **PostgreSQL**
+- **Airbyte**
+- **GitHub**
+- **Docker**
+- **FastAPI**
 
 ### Analytics & ML Tools
-- **Jupyter/Colab** (+++)
-- **scikit-learn** (++)
-- **Pandas** (++)
-- **Seaborn** (++)
-- **TensorFlow** (+)
+- **Jupyter/Colab**
+- **scikit-learn**
+- **Pandas**
+- **Seaborn**
+- **TensorFlow**
 
 ### Automation & MLOps
-- **Make.com** (+++)
-- **n8n.io** (+++)
-- **MLflow** (++)
-- **Prefect** (+)
-- **Langchain** (+)
+- **Make.com**
+- **n8n.io**
+- **MLflow**
+- **Prefect**
+- **Langchain**
 
 
 ### Marketing & Analytics Tools
-- **HubSpot CRM (Super Admin)** (+++)
-- **Metabase** (+++)
-- **Streamlit** (+++)
-- **LinkedIn Campaign Manager** (++)
-- **Facebook Ads Manager** (++)
-- **Google Analytics 4** (++)
+- **HubSpot CRM (Super Admin)**
+- **Metabase**
+- **Streamlit**
+- **LinkedIn Campaign Manager**
+- **Facebook Ads Manager**
+- **Google Analytics 4**
 
 
 ---
@@ -129,27 +129,20 @@ Action-oriented data professional specializing in end-to-end customer journey an
 - **Focus**: Machine Learning, Statistical Analysis, Predictive Modeling
 - **Projects**: Taxi Fair (predicting taxi prices and designing front-end app), Save The Crops Computer Vision project, ...
 
-### Hogeschool Gent - Business Administration and Management (2013-2014)
+### Hogeschool Gent - Business Administration and Management
+
+
 - **Certifications**:
   - dbt Core & Cloud Certified
   - Revenue Architecture Certified Expert
-  - Introduction to SQL
   - Introduction to Digital Transformation with Google Cloud
-  - Mastership Customer-Centric approach to Prospecting
-
----
-
-## Professional Development
-
-- **Regular attendance at data science and marketing and Agentic AI Agents gatherings**
-- **Contributed to open-source marketing analytics projects**
-- **Active participant in data science community meetups**
+  - N8N Certified
 
 ---
 
 ## Strategic Transformation Achievements
 
-- **Led digital transformation initiatives impacting 50+ team members**
+- **Led digital transformation initiatives**
 - **Streamlined cross-departmental workflows reducing process time by 40%**
 - **Implemented data-driven decision making across marketing, sales, and product teams**
 - **Established unified reporting framework for cross-functional KPIs**
@@ -161,5 +154,5 @@ Action-oriented data professional specializing in end-to-end customer journey an
 - **Boosted LinkedIn target awareness by 500% MoM at Aikido Security**
 - **Automated manual data processing for 7-person sales team, reducing time by 60% (300+ hours saved monthly)**
 - **Increased marketing qualified leads by 45% using predictive scoring**
-- **Built automated TAM data enrichment system with 90%+ accuracy, continuously updating CRM with latest company information**
+- **Built automated TAM (total addressable market) data research system, continuously updating CRM with latest company information**
 - **Generated €1.44M in pipeline revenue as first commercial hire at B2B SaaS startup**
