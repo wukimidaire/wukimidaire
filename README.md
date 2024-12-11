@@ -88,8 +88,6 @@ Action-oriented data professional specializing in end-to-end customer journey an
   - **Key Features**:
     - Automated collection of LinkedIn Ad Library data
     - Asynchronous crawling with parallel processing
-    - Structured JSON output with detailed metrics
-    - Rate limiting and retry mechanisms
 
 
 - **Data Collection & Market Research Project**: .NET Market
