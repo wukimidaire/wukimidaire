@@ -97,7 +97,7 @@ Action-oriented data professional specializing in end-to-end customer journey an
 
 ### GTM Automations | Aikido Security
 - **October 2024 - Present**
-- **Digital Footprint Crawling**: Engineered advanced systems to collect and analyze comprehensive company and profile data. [This repo is used to store data](https://github.com/wukimidaire/postgres_table_templates)
+- **Digital Footprint Crawling**: Engineered advanced systems to collect and analyze comprehensive company and profile data. [This repo is used for data storage](https://github.com/wukimidaire/postgres_table_templates)
 - **Strategic Impact**:
   - Increased LinkedIn brand awareness by 500% MoM through targeted campaigns
   - Identified pre-qualified prospects by analyzing competitor audience engagement, reducing CAC by targeting prospects already in awareness stage and achieving 10x faster time-to-market
