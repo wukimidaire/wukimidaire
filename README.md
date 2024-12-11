@@ -59,12 +59,7 @@ Action-oriented data professional specializing in end-to-end customer journey an
 
 - **Save The Crops**: A computer vision project to identify plant diseases from leaf images. [View Repo](https://github.com/wukimidaire/save_the_crops_front)
 - **Postgres Templates**: A versatile boilerplate database collection designed for multi-purpose applications. [View Repo](https://github.com/wukimidaire/postgres_table_templates)
-  - **Applications**:
-    - **Data Ingestion**: Digital footprint data storage
-    - **CRM Data Enrichment**
-    - **Agentic Boilerplate**: Provides a solid structured database foundation
-    - **Predictive Analytics**: Clustering customer data & Predictive GTM Strategies for Marketing and Sales
-  - **Impact**: Client-agnostic template system for rapid deployment. Contribution to open-source community
+
  
 - **LinkedIn Ad Library Crawler** | Data Collection Framework
   - [View Project](https://github.com/wukimidaire/linkedin_ads_scraper)
