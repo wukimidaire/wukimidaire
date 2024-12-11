@@ -70,7 +70,6 @@ Action-oriented data professional specializing in end-to-end customer journey an
 ## Relevant Experience
 
 ### GTM Automations | Aikido Security
-- **October 2024 - Present**
 - **Digital Footprint Crawling**: Engineered advanced systems to collect and analyze comprehensive company and profile data. [This repo is used for data storage](https://github.com/wukimidaire/postgres_table_templates)
 - **Strategic Impact**:
   - Increased LinkedIn Awareness Campaigns by 500% MoM through account targetting
@@ -81,7 +80,6 @@ Action-oriented data professional specializing in end-to-end customer journey an
   - Leveraged digital footprint data for customer clustering, predictive GTM scoring
 
 ### Revenue Operations Analyst | willow
-- **September 2022 - June 2024**
 - **End-to-End Solutions**: Designed and implemented comprehensive customer journey analytics infrastructure
 - **Data Integration**: Built unified data model connecting marketing, sales, customer success and product data
 - **Strategic Impact**:
@@ -89,7 +87,6 @@ Action-oriented data professional specializing in end-to-end customer journey an
   - Implemented multi-channel marketing performance dashboards
 
 ### Sales Operations & Sales Lead | willow
-- **May 2020 - August 2022**
 - **Data Analysis**: Achieved 26.86% reply rate on email campaigns (n=14,626) through continuous testing and optimization
 - **Process Automation**: Reduced prospecting time by 40% for 7-person sales team through automated data workflows (300+ hours saved monthly)
 - **Strategic Impact**: Generated 75%+ revenue from data-driven outbound motions
