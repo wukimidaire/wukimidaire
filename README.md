@@ -1,6 +1,4 @@
-# Victor De Coster
-Waregem, Flemish Region, Belgium  
- 
+## Contact
 [LinkedIn](www.linkedin.com/in/victordecoster)
 
 ---
