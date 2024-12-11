@@ -57,16 +57,8 @@ Action-oriented data professional specializing in end-to-end customer journey an
 
 ## Portfolio Highlights
 
-- **Save The Crops**: A computer vision project to identify plant diseases from leaf images. [Save The Crops Repo](https://github.com/wukimidaire/save_the_crops_front)
-  - **End Project**: Completed as part of the Machine Learning & Data Science bootcamp at Le Wagon, 2024 Q1.
-  - **Built CNN model achieving 95%+ accuracy on 20,000+ plant disease images.**
-  - **Implemented model deployment pipeline using FastAPI and Docker.**
-  - **Stack**: TensorFlow, OpenCV, FastAPI, Docker.
-  - **Features**: Real-time inference, model versioning, automated testing.
-  - **Impact**: Potential 30% reduction in crop loss through early disease detection.
-
-
-- **Postgres Templates**: A versatile boilerplate database collection designed for multi-purpose applications. [View Repository](https://github.com/wukimidaire/postgres_table_templates)
+- **Save The Crops**: A computer vision project to identify plant diseases from leaf images. [View Repo](https://github.com/wukimidaire/save_the_crops_front)
+- **Postgres Templates**: A versatile boilerplate database collection designed for multi-purpose applications. [View Repo](https://github.com/wukimidaire/postgres_table_templates)
   - **Applications**:
     - **Data Ingestion**: Digital footprint data storage
     - **CRM Data Enrichment**
