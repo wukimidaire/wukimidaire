@@ -72,10 +72,10 @@ Action-oriented data professional specializing in end-to-end customer journey an
     - **Data Collection**: Digital footprint scraping and storage.
     - **Predictive Analytics**: Utilizes CRM customer data for clustering and applies collected data for predictive scoring on targeted companies.
     - **Agentic Framework**: Provides a structured database foundation.
-  - **Developed**: An automated, client-agnostic template system for rapid deployment.
+    - **CRM Data Enrichment**
   - **Stack**: PostgreSQL, Python, SQLAlchemy.
   - **Features**: Modular design, templatized workflows, automated validation, data integrity checks.
-  - **Impact**: Accelerated client delivery times and enhanced contributions to the open-source community.
+  - **Impact**: Client-agnostic template system for rapid deployment. Contribution to the open-source community.
  
 - **LinkedIn Ad Library Crawler** | Data Collection Framework
   - [View Project](https://github.com/wukimidaire/linkedin_ads_scraper)
