@@ -69,10 +69,12 @@ Action-oriented data professional specializing in end-to-end customer journey an
 
 - **Postgres Templates**: A versatile boilerplate database collection designed for multiple applications. [View Repository](https://github.com/wukimidaire/postgres_table_templates)
   - **Applications**:
-    - **Data Collection**: Digital footprint scraped data.
-    - **Predictive Analytics**: Utilizes CRM customer data for clustering and applies collected data for predictive scoring on targeted companies.
-    - **Agentic Framework**: Provides a structured database foundation.
+    - **Data Ingestion**: Digital footprint collected data.
     - **CRM Data Enrichment**
+    - **Agentic Boilerplate**: Provides a solid structured database foundation.
+    - **Predictive Analytics**: Utilizes CRM customer data for clustering and applies collected data for predictive scoring on targeted companies.
+    
+    
   - **Stack**: PostgreSQL, Python, SQLAlchemy.
   - **Features**: Modular design, templatized workflows, automated validation, data integrity checks.
   - **Impact**: Client-agnostic template system for rapid deployment. Contribution to the open-source community.
