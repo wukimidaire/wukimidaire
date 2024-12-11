@@ -84,7 +84,7 @@ Action-oriented data professional specializing in end-to-end customer journey an
 
 
 - **Data Mining Project**: .NET Market
-    - **Repository**(https://github.com/wukimidaire/BelgianNETAnalysis)
+    - **Repository**[BelgianNETAnalysis](https://github.com/wukimidaire/BelgianNETAnalysis)
 
 ### Data Applications (Streamlit)
 - **Marketing Attribution Dashboard**: Real-time campaign performance tracking
