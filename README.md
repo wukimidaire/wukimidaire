@@ -74,8 +74,8 @@ Action-oriented data professional specializing in end-to-end customer journey an
 
 - **Postgres Table Templates Framework**: A versatile boilerplate database collection designed for multiple applications. [View Repository](https://github.com/wukimidaire/postgres_table_templates)
   - **Applications**:
-    - **Data Mining**: Facilitates efficient extraction and storage.
-    - **Predictive Analytics**: Utilizes CRM customer data for clustering and applies mined data for predictive scoring on targeted companies.
+    - **Data Collection**: Digital footprint scraping and storage.
+    - **Predictive Analytics**: Utilizes CRM customer data for clustering and applies collected data for predictive scoring on targeted companies.
     - **Agentic Framework**: Provides a structured database foundation.
   - **Developed**: An automated, client-agnostic template system for rapid deployment.
   - **Stack**: PostgreSQL, Python, SQLAlchemy.
@@ -84,7 +84,7 @@ Action-oriented data professional specializing in end-to-end customer journey an
  
 - **LinkedIn Ad Library Crawler** | Data Collection Framework
   - [View Project](https://github.com/wukimidaire/linkedin_ads_scraper)
-  - **Tech Stack**: Python, FastAPI, Playwright, Docker
+  - **Tech Stack**: Python, FastAPI, Playwright, Docker, CI/CD
   - **Key Features**:
     - Automated collection of LinkedIn Ad Library data
     - Asynchronous crawling with parallel processing
@@ -92,8 +92,8 @@ Action-oriented data professional specializing in end-to-end customer journey an
     - Rate limiting and retry mechanisms
 
 
-- **Data Mining Project**: .NET Market
-    - **Repository**[BelgianNETAnalysis](https://github.com/wukimidaire/BelgianNETAnalysis)
+- **Data Collection & Market Research Project**: .NET Market
+    - **Repository:** [BelgianNETAnalysis](https://github.com/wukimidaire/BelgianNETAnalysis)
 
 ### Data Applications (Streamlit)
 - **Marketing Attribution Dashboard**: Real-time campaign performance tracking
