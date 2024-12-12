@@ -96,8 +96,9 @@ Action-oriented data professional specializing in end-to-end customer journey pe
 [![Phantombuster](https://img.shields.io/badge/Phantombuster-000000?style=flat&logo=ghost&logoColor=white)](https://phantombuster.com/)
 
 ### 🎯 Data Skills
-[![Data Mining](https://img.shields.io/badge/Data_Mining-4285F4?style=flat&logo=data&logoColor=white)](https://en.wikipedia.org/wiki/Data_mining)
+[![Data Scraping](https://img.shields.io/badge/Data_Activation-7B61FF?style=flat&logo=data&logoColor=white)](https://en.wikipedia.org/wiki/Data_activation)
 [![Data Modeling](https://img.shields.io/badge/Data_Modeling-FF6B6B?style=flat&logo=data&logoColor=white)](https://en.wikipedia.org/wiki/Data_modeling)
+[![Data Mining](https://img.shields.io/badge/Data_Mining-4285F4?style=flat&logo=data&logoColor=white)](https://en.wikipedia.org/wiki/Data_mining)
 [![Data Activation](https://img.shields.io/badge/Data_Activation-7B61FF?style=flat&logo=data&logoColor=white)](https://en.wikipedia.org/wiki/Data_activation)
 
 </td>
