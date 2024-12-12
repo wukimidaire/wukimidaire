@@ -27,12 +27,6 @@ Action-oriented data professional specializing in end-to-end customer journey an
 - **PostgreSQL**
 - **Airbyte & Dagster**
 
-### Analytics & ML Tools
-- **Jupyter/Colab**
-- **scikit-learn**
-- **TensorFlow**
-- **Seaborn**
-
 ### Automation & MLOps
 - **n8n.io**
 - **Make.com**
