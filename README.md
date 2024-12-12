@@ -116,9 +116,9 @@ Action-oriented data professional specializing in end-to-end customer journey pe
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **DBT Bow-Tie Template** | Data transformation template for analytics engineering | DBT, SQL, Python | [📦 Repo](https://github.com/wukimidaire/dbt_bowtie_template) |
+| **DBT Data Model Framework** | Data transformation template for analytics engineering | DBT, SQL, Python | [📦 Repo](https://github.com/wukimidaire/dbt_bowtie_template) |
 | **Customer Clustering & GTM Strategy** | Market segmentation and go-to-market analysis framework | Python, Scikit-learn | [🔗 Details](#) |
-| **Postgres Templates** | Production-Ready Boilerplate Code | PostgreSQL | [📦 Repo](https://github.com/wukimidaire/postgres_table_templates) |
+| **Postgres Boilerplate Template** | Production-Ready Code | PostgreSQL | [📦 Repo](https://github.com/wukimidaire/postgres_table_templates) |
 
 ## 🚀 APIs
 
