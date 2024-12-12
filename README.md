@@ -86,6 +86,7 @@ Action-oriented data professional specializing in end-to-end customer journey pe
 ### 📊 Analytics & BI
 [![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=metabase&logoColor=white)](https://www.metabase.com/)
 [![HubSpot](https://img.shields.io/badge/HubSpot_Dashboards-FF7A59?style=flat&logo=hubspot&logoColor=white)](https://www.hubspot.com/products/analytics)
+[![Dreamdata](https://img.shields.io/badge/Dreamdata-6366F1?style=flat&logo=)](https://dreamdata.io/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![GA4](https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)](https://analytics.google.com/)
 
@@ -93,7 +94,6 @@ Action-oriented data professional specializing in end-to-end customer journey pe
 [![n8n](https://img.shields.io/badge/n8n-6563FF?style=flat&logo=n8n&logoColor=white)](https://n8n.io/)
 [![Make.com](https://img.shields.io/badge/Make.com-335EEA?style=flat&logo=webflow&logoColor=white)](https://www.make.com/)
 [![Phantombuster](https://img.shields.io/badge/Phantombuster-000000?style=flat&logo=ghost&logoColor=white)](https://phantombuster.com/)
-[![Dreamdata](https://img.shields.io/badge/Dreamdata-6366F1?style=flat&logo=)](https://dreamdata.io/)
 
 ### 🎯 Data Skills
 [![Data Mining](https://img.shields.io/badge/Data_Mining-4285F4?style=flat&logo=data&logoColor=white)](https://en.wikipedia.org/wiki/Data_mining)
