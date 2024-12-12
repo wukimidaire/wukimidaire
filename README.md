@@ -29,7 +29,7 @@ Action-oriented data professional specializing in end-to-end customer journey pe
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/)
 [![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white)](https://langchain.org/)
 
-### 📊 Data Science & Analytics
+### 📊 Data Science
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)](https://matplotlib.org/)
@@ -51,32 +51,35 @@ Action-oriented data professional specializing in end-to-end customer journey pe
 
 ### 🌐 Web & APIs
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat&logo=fastapi&logoColor=white)](https://restfulapi.net/)
 
-### 🔧 Development Tools
-[![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)](https://colab.research.google.com/)
-[![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=metabase&logoColor=white)](https://www.metabase.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
-[![n8n](https://img.shields.io/badge/n8n-6563FF?style=flat&logo=n8n&logoColor=white)](https://n8n.io/)
 
 ### 🔍 Data Tools & Platforms
-[![Sales Navigator](https://img.shields.io/badge/Sales_Navigator-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://business.linkedin.com/sales-solutions)
-[![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)](https://www.google.com/sheets/about/)
-[![Phantombuster](https://img.shields.io/badge/Phantombuster-000000?style=flat&logo=ghost&logoColor=white)](https://phantombuster.com/)
+[![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=metabase&logoColor=white)](https://www.metabase.com/) 
+[![HubSpot Dashboards](https://img.shields.io/badge/HubSpot_Dashboards-FF7A59?style=flat&logo=hubspot&logoColor=white)](https://www.hubspot.com/products/analytics)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)](https://colab.research.google.com/)
+
+[![n8n](https://img.shields.io/badge/n8n-6563FF?style=flat&logo=n8n&logoColor=white)](https://n8n.io/)
 [![Make.com](https://img.shields.io/badge/Make.com-335EEA?style=flat&logo=webflow&logoColor=white)](https://www.make.com/)
-[![Serper.dev](https://img.shields.io/badge/Serper.dev-000000?style=flat&logo=searchengine&logoColor=white)](https://serper.dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
+
+
 
 ### 📊 Data Skills
 [![Data Mining](https://img.shields.io/badge/Data_Mining-4285F4?style=flat&logo=data&logoColor=white)](https://en.wikipedia.org/wiki/Data_mining)
 [![Data Scraping](https://img.shields.io/badge/Data_Scraping-47A248?style=flat&logo=data&logoColor=white)](https://en.wikipedia.org/wiki/Web_scraping)
 [![Data Modeling](https://img.shields.io/badge/Data_Modeling-FF6B6B?style=flat&logo=data&logoColor=white)](https://en.wikipedia.org/wiki/Data_modeling)
 
-### 📱 Marketing & Analytics
+### 📱 Marketing
+[![Sales Navigator](https://img.shields.io/badge/Sales_Navigator-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://business.linkedin.com/sales-solutions)
+[![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)](https://www.google.com/sheets/about/)
+[![Phantombuster](https://img.shields.io/badge/Phantombuster-000000?style=flat&logo=ghost&logoColor=white)](https://phantombuster.com/)
+[![Serper.dev](https://img.shields.io/badge/Serper.dev-000000?style=flat&logo=searchengine&logoColor=white)](https://serper.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/)
 [![GA4](https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)](https://analytics.google.com/)
-SQL, Python, JavaScript, Pandas, TensorFlow, Scikit-Learn, NumPy, Matplotlib, Keras, MLflow, LangChain, Hugging Face, Data Build Tool (DBT), Jupyter Notebook, Google Colab, Google Compute, n8n, Docker, FastAPI, Prefect, Streamlit, Data Mining, Data Scraping, Data Modeling, BigQuery, LinkedIn Sales Navigator, Google Sheets, REST APIs, Google Cloud Platform (GCP), PostgreSQL, Airbyte, Dagster, Metabase, LinkedIn, Facebook, GA4, Phantombuster, Sales Navigator, Serper.dev, Make.com, GitHub.
+
 
 
 ---
