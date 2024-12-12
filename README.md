@@ -25,7 +25,7 @@ Action-oriented data professional specializing in end-to-end customer journey an
 - **DBT**
 - **GCP**
 - **PostgreSQL**
-- **Airbyte**
+- **Airbyte & Dagster**
 
 ### Analytics & ML Tools
 - **Jupyter/Colab**
