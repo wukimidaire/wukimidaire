@@ -55,6 +55,8 @@ Action-oriented data professional specializing in end-to-end customer journey an
 
 - **.NET TAM Research & Data Collection**: [View Repo](https://github.com/wukimidaire/BelgianNETAnalysis)
 
+- **DBT Bow-Tie Template** [View Repo](https://github.com/wukimidaire/dbt_bowtie_template)
+
 ---
 
 ## Relevant Experience
