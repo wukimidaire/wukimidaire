@@ -18,27 +18,6 @@ Action-oriented data professional specializing in end-to-end customer journey pe
 
 SQL, Python, JavaScript, Pandas, TensorFlow, Scikit-Learn, NumPy, Matplotlib, Keras, MLflow, LangChain, Hugging Face, Data Build Tool (DBT), Jupyter Notebook, Google Colab, Google Compute, n8n, Docker, FastAPI, Prefect, Streamlit, Data Mining, Data Scraping, Data Modeling, BigQuery, LinkedIn Sales Navigator, Google Sheets, REST APIs, Google Cloud Platform (GCP), PostgreSQL, Airbyte, Dagster, Metabase, LinkedIn, Facebook, GA4, Phantombuster, Sales Navigator, Serper.dev, Make.com, GitHub.
 
-### Development & Infrastructure
-- **DBT**
-- **GCP**
-- **PostgreSQL**
-- **Airbyte & Dagster**
-
-### Automation & MLOps
-- **n8n.io**
-- **Make.com**
-- **MLflow**
-- **Prefect**
-- **Langchain**
-
-
-### Marketing & Analytics Tools
-- **HubSpot CRM (Super Admin)**
-- **Metabase**
-- **Streamlit**
-- **LinkedIn, Facebook, GA4**
-- **Phantombuster, SalesNavigator, serper.dev, ...**
-
 
 ---
 
