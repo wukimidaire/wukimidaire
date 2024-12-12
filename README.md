@@ -62,6 +62,7 @@ Action-oriented data professional specializing in end-to-end customer journey pe
 
 [![n8n](https://img.shields.io/badge/n8n-6563FF?style=flat&logo=n8n&logoColor=white)](https://n8n.io/)
 [![Make.com](https://img.shields.io/badge/Make.com-335EEA?style=flat&logo=webflow&logoColor=white)](https://www.make.com/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
 
 
@@ -72,6 +73,7 @@ Action-oriented data professional specializing in end-to-end customer journey pe
 [![Data Modeling](https://img.shields.io/badge/Data_Modeling-FF6B6B?style=flat&logo=data&logoColor=white)](https://en.wikipedia.org/wiki/Data_modeling)
 
 ### 📱 Marketing
+[![Dreamdata](https://img.shields.io/badge/Dreamdata-4A90E2?style=flat&logo=analytics&logoColor=white)](https://dreamdata.io/)
 [![Sales Navigator](https://img.shields.io/badge/Sales_Navigator-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://business.linkedin.com/sales-solutions)
 [![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)](https://www.google.com/sheets/about/)
 [![Phantombuster](https://img.shields.io/badge/Phantombuster-000000?style=flat&logo=ghost&logoColor=white)](https://phantombuster.com/)
