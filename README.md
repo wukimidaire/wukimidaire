@@ -22,13 +22,10 @@ Action-oriented data professional specializing in end-to-end customer journey an
 - **TypeScript**
 
 ### Development & Infrastructure
-- **DBT (Certified)**
-- **BigQuery (GCP)**
+- **DBT**
+- **GCP**
 - **PostgreSQL**
 - **Airbyte**
-- **GitHub**
-- **Docker**
-- **FastAPI**
 
 ### Analytics & ML Tools
 - **Jupyter/Colab**
@@ -48,9 +45,8 @@ Action-oriented data professional specializing in end-to-end customer journey an
 - **HubSpot CRM (Super Admin)**
 - **Metabase**
 - **Streamlit**
-- **LinkedIn Campaign Manager**
-- **Facebook Ads Manager**
-- **Google Analytics 4**
+- **LinkedIn, Facebook, GA4**
+- **Phantombuster, SalesNavigator, serper.dev, ...**
 
 
 ---
