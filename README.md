@@ -93,17 +93,22 @@ SQL, Python, JavaScript, Pandas, TensorFlow, Scikit-Learn, NumPy, Matplotlib, Ke
 
 ## Education & Recent Training
 
-### Le Wagon - Data Science & AI (2024, Q1)
-- **Focus**: Machine Learning, Statistical Analysis, Predictive Modeling
-- **Projects**: Taxi Fair (predicting taxi prices and designing front-end app), Save The Crops Computer Vision project, ...
+<details>
+  <summary><strong>Details</strong></summary>
 
-### Hogeschool Gent - Business Administration and Management
+  ### Hogeschool Gent - Business Administration and Management
 
-### Certifications
+  ### Le Wagon - Data Science & AI (2024, Q1)
+  - **Focus**: Machine Learning, Statistical Analysis, Predictive Modeling
+  - **Projects**: Taxi Fair (predicting taxi prices and designing front-end app), Save The Crops Computer Vision project, ...
+
+  ### Certifications
   - dbt Core & Cloud Certified
   - Revenue Architecture Certified Expert
   - Introduction to Digital Transformation with Google Cloud
   - N8N Certified
+
+</details>
 
 ---
 
