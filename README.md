@@ -4,22 +4,17 @@ Action-oriented data professional specializing in end-to-end customer journey pe
 
 ---
 
-## Core Competencies
-- **Strategy**: Unified operations across marketing, sales, CS, product, and revenue data
-- **Client Communication**: Workshop Innitiation, strategy alignemnt with stakeholders
-- **Data Capture & Engineering**: Data pipelines processing millions of records using Airbyte, dbt, PostgreSQL, BigQuery
-- **Visualization**: Insights driven dashboards using Metabase, Streamlit, HubSpot CRM Dashboards
-- **Advanced Analytics**: Customer Clusters, predictive GTM strategies and lead scoring
-- **Languages**: Native Dutch, Fluent English
-
 ### 🔄 Strategy & Operations
 [![GTM Strategy](https://img.shields.io/badge/GTM_Strategy-2C3E50?style=flat&logo=strategy&logoColor=white)](https://en.wikipedia.org/wiki/Go_to_market)
 [![Revenue Operations](https://img.shields.io/badge/Revenue_Operations-34495E?style=flat&logo=operations&logoColor=white)](https://en.wikipedia.org/wiki/Revenue_operations)
-[![Cross_Functional](https://img.shields.io/badge/Cross_Functional-2980B9?style=flat&logo=team&logoColor=white)](https://en.wikipedia.org/wiki/Cross-functional_team)
+[![Cross-functional Teams](https://img.shields.io/badge/Cross_functional_Teams-2ECC71?style=flat&logo=team&logoColor=white)](https://en.wikipedia.org/wiki/Cross-functional_team)
+[![Project Management](https://img.shields.io/badge/Project_Management-27AE60?style=flat&logo=project&logoColor=white)](https://en.wikipedia.org/wiki/Project_management)
+
 
 ### 👥 People
 [![Workshop Facilitation](https://img.shields.io/badge/Workshop_Facilitation-3498DB?style=flat&logo=presentation&logoColor=white)](https://en.wikipedia.org/wiki/Facilitation)
 [![Stakeholder Management](https://img.shields.io/badge/Stakeholder_Management-2ECC71?style=flat&logo=management&logoColor=white)](https://en.wikipedia.org/wiki/Stakeholder_management)
+[![Team Leadership](https://img.shields.io/badge/Team_Leadership-1ABC9C?style=flat&logo=leadership&logoColor=white)](https://en.wikipedia.org/wiki/Team_leadership)
 
 
 ### 🌐 Languages
