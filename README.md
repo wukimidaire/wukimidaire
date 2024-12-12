@@ -21,7 +21,7 @@ SQL, Python, JavaScript, Pandas, TensorFlow, Scikit-Learn, NumPy, Matplotlib, Ke
 
 ---
 
-## Portfolio Highlights
+## Portfolio
 
 - **DBT Bow-Tie Template** [View Repo](https://github.com/wukimidaire/dbt_bowtie_template)
 
