@@ -51,9 +51,9 @@ Action-oriented data professional specializing in end-to-end customer journey an
   
 - **Postgres Templates:** Boilerplate database collection designed for multi-purpose applications. [View Repo](https://github.com/wukimidaire/postgres_table_templates)
 
-- **LinkedIn Ads Crawler:** Production grade API endpoint [View Repo](https://github.com/wukimidaire/linkedin_ads_scraper)
+- **LinkedIn Ads API:** Production grade API endpoint [View Repo](https://github.com/wukimidaire/linkedin_ads_scraper)
 
-- **Financial Data Crawler:**  [View Repo](https://github.com/wukimidaire/financial_data_extractor)
+- **Financial Data API:**  [View Repo](https://github.com/wukimidaire/financial_data_extractor)
 
 - **.NET TAM Research & Data Collection**: [View Repo](https://github.com/wukimidaire/BelgianNETAnalysis)
 
