@@ -127,11 +127,12 @@ Action-oriented data professional specializing in end-to-end customer journey pe
 | **LinkedIn Ads API** | Production-grade endpoint for LinkedIn advertising data | FastAPI, Python | [📦 Repo](https://github.com/wukimidaire/linkedin_ads_scraper) |
 | **Financial Data API** | Real-time financial data extraction endpoint | Python, REST | [📦 Repo](https://github.com/wukimidaire/financial_data_extractor) |
 
-## 💡 Featured Projects
+## 💡 Featured Learning Projects
 
 ### Machine Learning & AI
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
+| **MLOps Auto Deployment** | Production ML pipeline with automated monitoring, evaluation & smart deployment | GCP, Python, MLOps | [📦 Repo](https://github.com/wukimidaire/mlops_auto_deployment_pipeline) |
 | **Save The Crops** | Computer vision system for plant disease detection | TensorFlow, OpenCV | [📦 Repo](https://github.com/wukimidaire/save_the_crops_front) |
 | **Taxi Fare Predictor** | ML-powered fare estimation with CI/CD cloud deployment | FastAPI, TensorFlow, GCP | [📦 Repo](https://github.com/wukimidaire/taxifair_project) |
 | **ML Model Lifecycle** | End-to-end ML model development and deployment project | MLflow, Python | [📦 Repo](https://github.com/wukimidaire/data-model-lifecycle) |
