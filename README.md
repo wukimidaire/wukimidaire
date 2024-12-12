@@ -222,10 +222,10 @@ Action-oriented data professional specializing in end-to-end customer journey pe
 
 ---
 
-## Results-Driven Achievements
+## Achievements
 
-- **Boosted LinkedIn target awareness by 500% MoM at Aikido Security**
-- **Automated manual data processing for 7-person sales team, reducing time by 60% (300+ hours saved monthly)**
+- **Boosted LinkedIn Awareness Campaigns by 500% MoM at Aikido Security**
+- **Automated Prospect Data Collection & Research for 7 Sales FTE's, reducing time by 60% (300+ hours saved monthly)**
 - **Increased marketing qualified leads by 45% using predictive scoring**
-- **Built automated TAM (total addressable market) data research system, continuously updating CRM with latest company information**
+- **Engineered TAM-Research System (total addressable market), real-time CRM updates**
 - **Generated €1.44M in pipeline (1Y) revenue as first commercial hire at B2B SaaS startup**
