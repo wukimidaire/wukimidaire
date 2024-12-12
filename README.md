@@ -118,7 +118,7 @@ Action-oriented data professional specializing in end-to-end customer journey pe
 |---------|-------------|------------|-------|
 | **DBT Data Model Framework** | Data transformation template for analytics engineering | DBT, Streamlit | [📦 Repo](https://github.com/wukimidaire/dbt_bowtie_template) |
 | **GTM Agent Framework** | Automates TAM Collection & Research, Monitors Competitors, Clusters Customers & Go-To-Market Strategy Activation | N8N, Scikit-learn, Streamlit, LangChain | [🔐 Private](#) |
-| **Postgres Boilerplate Templates** | Production-Ready, Open-Sourced this so other people can contribute and apply this | PostgreSQL | [📦 Repo](https://github.com/wukimidaire/postgres_table_templates) |
+| **Postgres Boilerplate Templates** | Production-Ready and Open-Sourced: Now available for others to contribute to and apply | PostgreSQL | [📦 Repo](https://github.com/wukimidaire/postgres_table_templates) |
 
 ## 🚀 APIs
 
