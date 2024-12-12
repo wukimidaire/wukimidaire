@@ -35,7 +35,7 @@ SQL, Python, JavaScript, Pandas, TensorFlow, Scikit-Learn, NumPy, Matplotlib, Ke
 
 - **.NET TAM Research & Data Collection**: [View Repo](https://github.com/wukimidaire/BelgianNETAnalysis)
 
-- - **Save The Crops:** A computer vision project to identify plant diseases from leaf images. [View Repo](https://github.com/wukimidaire/save_the_crops_front)
+- **Save The Crops:** A computer vision project to identify plant diseases from leaf images. [View Repo](https://github.com/wukimidaire/save_the_crops_front)
 
 - **Taxi Fair ML Project** [View Repo](https://github.com/wukimidaire/taxifair_project)
 
