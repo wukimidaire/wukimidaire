@@ -1,6 +1,6 @@
 
 ## Summary
-Action-oriented data professional specializing in end-to-end customer journey analytics solutions. dbt and Revenue Architecture certified expert with a proven track record of transforming business requirements into actionable data insights. Expertise spanning data capture, visualization, and predictive analytics. Known for bridging technical and business teams while delivering measurable ROI.
+Action-oriented data professional specializing in end-to-end customer journey performance solutions. dbt and Revenue Architecture certified expert with a proven track record of transforming business requirements into actionable data insights. Expertise spanning data capture, visualization, and predictive analytics. Known for bridging technical and business teams while delivering measurable ROI.
 
 ---
 
