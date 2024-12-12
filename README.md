@@ -22,14 +22,13 @@ Action-oriented data professional specializing in end-to-end customer journey pe
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
-### 🤖 Machine Learning & AI
+### 🤖 Data Science & ML
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)](https://keras.io/)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/)
 [![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white)](https://langchain.org/)
 
-### 📊 Data Science
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)](https://matplotlib.org/)
@@ -73,7 +72,7 @@ Action-oriented data professional specializing in end-to-end customer journey pe
 [![Data Modeling](https://img.shields.io/badge/Data_Modeling-FF6B6B?style=flat&logo=data&logoColor=white)](https://en.wikipedia.org/wiki/Data_modeling)
 
 ### 📱 Marketing
-[![Dreamdata](https://img.shields.io/badge/Dreamdata-4A90E2?style=flat&logo=analytics&logoColor=white)](https://dreamdata.io/)
+[![Dreamdata](https://img.shields.io/badge/Dreamdata-6366F1?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJESURBVFhH7ZY9aBRBGIbfvdwlp8kpJhqJGhVUUEQQRBEsrAQLCwuLVBY2Nv4gYmVhYWMhiI2FhYVgYWFhYWMXDUYRjUaj0RiTmMt9O+O7l93bvb3d7O0lhYUPPDc3s/POvN/M7M6GlFJwGAzD8J8VQqqqwmg0wng8lrVoNBpBURRZi8cwTdOXNxgMkM/nZW02YRiiVCrJWjwzE1BVFaZpYjgcylY0hmGgWCzKWjwzE3AcB7quI5PJyFY0tm3DsixZi2dmAo7joFarwbZtWZMkaJqGTCaDfD4PXdflVzQzEyiXy2i32ygUCrLlx7ZtVKtVX0x4pBNCyGYS/gR83xZFEh6Ph/vS/WT8CcSRJIGkxJ6ApmkYj4L7Ow7P8+A4DkqlEjzPk63JiD0BwzBQLBaRy+VkSxDe73Q6vq04HRF7AoQQgmq1ikwmI1uA53no9/vodDrSm4zYE+DFR1OtVqGqKjzPQ7/fR7vdhm3bUJTgVCUh9p0gPPVhOp0Out0uer0eXNeVThDOeUEQIJvNolKpBGInIfYEwlMRxnVddLtddDodmKYJy7LgeZ5vCzRNQz6fR61WQy6Xk63JmOtxTFPQ6/XQ7XbR7/fheV4gAU3TUCgUUK/XkcvlpDs5cyVAi46mn+/7dA1QFAWmaWIwGPjWgOd5yOfzqNfrfgJpmvvPBPgvx3Vd9Pt9X3QajQYKhYK0kjF3AmGIEOTzeRiGIVvpmfvPJMnMvQaSMlcC/O8nzQr4E/gNk+fv8WCqb5MAAAAASUVORK5CYII=)](https://dreamdata.io/)
 [![Sales Navigator](https://img.shields.io/badge/Sales_Navigator-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://business.linkedin.com/sales-solutions)
 [![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)](https://www.google.com/sheets/about/)
 [![Phantombuster](https://img.shields.io/badge/Phantombuster-000000?style=flat&logo=ghost&logoColor=white)](https://phantombuster.com/)
