@@ -48,21 +48,19 @@ SQL, Python, JavaScript, Pandas, TensorFlow, Scikit-Learn, NumPy, Matplotlib, Ke
 ### GTM Automations | Aikido Security
 
 <details>
-  <summary><strong>Digital Footprint Crawling</strong></summary>
-  Engineered advanced systems to collect and analyze comprehensive datasets [(Applied Repo)](https://github.com/wukimidaire/postgres_table_templates)
-</details>
+  <summary><strong>Details</strong></summary>
 
-<details>
-  <summary><strong>Strategic Impact</strong></summary>
-  - Increased LinkedIn Awareness Campaigns by 500% MoM through account targeting
-  - Identified pre-qualified prospects by analyzing competitor audience engagement, reducing CAC by targeting prospects already in awareness stage and achieving 10x faster time-to-market
-  - Leveraging existing customer networks for 10x testimonial impact
-  - Agentic Sales Research Assistant & Cold email writer
-</details>
+  - **Digital Footprint Crawling**: Engineered advanced systems to collect and analyze comprehensive datasets [(Applied Repo)](https://github.com/wukimidaire/postgres_table_templates)
+  
+  - **Strategic Impact**:
+    - Increased LinkedIn Awareness Campaigns by 500% MoM through account targeting
+    - Identified pre-qualified prospects by analyzing competitor audience engagement, reducing CAC by targeting prospects already in awareness stage and achieving 10x faster time-to-market
+    - Leveraging existing customer networks for 10x testimonial impact
+    - Agentic Sales Research Assistant & Cold email writer
 
-<details>
-  <summary><strong>Predictive Analytics</strong></summary>
-  - Leveraged digital footprint data for customer clustering, predictive GTM scoring
+  - **Predictive Analytics:**
+    - Leveraged digital footprint data for customer clustering, predictive GTM scoring
+
 </details>
 
 ### Revenue Operations Analyst | willow
