@@ -60,6 +60,7 @@ Action-oriented data professional specializing in end-to-end customer journey pe
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-4EAE4E?style=flat&logo=python&logoColor=white)](https://seaborn.pydata.org/)
 
 </td>
 <td width="33%">
