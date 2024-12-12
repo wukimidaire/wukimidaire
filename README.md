@@ -23,7 +23,9 @@ SQL, Python, JavaScript, Pandas, TensorFlow, Scikit-Learn, NumPy, Matplotlib, Ke
 
 ## Portfolio Highlights
 
-- **Save The Crops:** A computer vision project to identify plant diseases from leaf images. [View Repo](https://github.com/wukimidaire/save_the_crops_front)
+- **DBT Bow-Tie Template** [View Repo](https://github.com/wukimidaire/dbt_bowtie_template)
+
+- - **Customer Clustering & GTM Strategy**
   
 - **Postgres Templates:** Boilerplate database collection designed for multi-purpose applications. [View Repo](https://github.com/wukimidaire/postgres_table_templates)
 
@@ -31,11 +33,9 @@ SQL, Python, JavaScript, Pandas, TensorFlow, Scikit-Learn, NumPy, Matplotlib, Ke
 
 - **Financial Data API:**  [View Repo](https://github.com/wukimidaire/financial_data_extractor)
 
-- **Customer Clustering & GTM Strategy Prediction**
-
 - **.NET TAM Research & Data Collection**: [View Repo](https://github.com/wukimidaire/BelgianNETAnalysis)
 
-- **DBT Bow-Tie Template** [View Repo](https://github.com/wukimidaire/dbt_bowtie_template)
+- - **Save The Crops:** A computer vision project to identify plant diseases from leaf images. [View Repo](https://github.com/wukimidaire/save_the_crops_front)
 
 - **Taxi Fair ML Project** [View Repo](https://github.com/wukimidaire/taxifair_project)
 
