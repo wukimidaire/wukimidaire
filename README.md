@@ -14,12 +14,9 @@ Action-oriented data professional specializing in end-to-end customer journey pe
 
 ---
 
-## Technical Skills
+## Technical Stack
 
-### Programming & Query Languages
-- **SQL**
-- **Python**
-- **JavaScript**
+SQL, Python, JavaScript, Pandas, TensorFlow, Scikit-Learn, NumPy, Matplotlib, Keras, MLflow, LangChain, Hugging Face, Data Build Tool (DBT), Jupyter Notebook, Google Colab, Google Compute, n8n, Docker, FastAPI, Prefect, Streamlit, Data Mining, Data Scraping, Data Modeling, BigQuery, LinkedIn Sales Navigator, Google Sheets, REST APIs, Google Cloud Platform (GCP), PostgreSQL, Airbyte, Dagster, Metabase, LinkedIn, Facebook, GA4, Phantombuster, Sales Navigator, Serper.dev, Make.com, GitHub.
 
 ### Development & Infrastructure
 - **DBT**
