@@ -213,7 +213,7 @@ Action-oriented data professional specializing in end-to-end customer journey pe
 
 ---
 
-## Strategic Transformation Achievements
+## Digital Transformation Experience
 
 - **Led digital transformation initiatives**
 - **Streamlined cross-departmental workflows reducing process time by 40%**
