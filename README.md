@@ -57,6 +57,8 @@ Action-oriented data professional specializing in end-to-end customer journey an
 
 - **DBT Bow-Tie Template** [View Repo](https://github.com/wukimidaire/dbt_bowtie_template)
 
+- **Taxi Fair ML Project** [View Repo](https://github.com/wukimidaire/taxifair_project)
+
 ---
 
 ## Relevant Experience
