@@ -136,6 +136,39 @@ Projects:
 
 - **ML Model Lifecycle:** [View Repo](https://github.com/wukimidaire/data-model-lifecycle)
 
+
+
+
+## 🏗️ Frameworks & Templates
+
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **DBT Bow-Tie Template** | Data transformation template for analytics engineering | DBT, SQL, Python | [📦 Repo](https://github.com/wukimidaire/dbt_bowtie_template) |
+| **Customer Clustering & GTM Strategy** | Market segmentation and go-to-market analysis framework | Python, Scikit-learn | [🔗 Details](#) |
+| **Postgres Templates** | Production-ready database boilerplates for scalable applications | PostgreSQL, SQL | [📦 Repo](https://github.com/wukimidaire/postgres_table_templates) |
+
+## 🚀 APIs
+
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **LinkedIn Ads API** | Production-grade endpoint for LinkedIn advertising data | FastAPI, Python | [📦 Repo](https://github.com/wukimidaire/linkedin_ads_scraper) |
+| **Financial Data API** | Real-time financial data extraction service | Python, REST | [📦 Repo](https://github.com/wukimidaire/financial_data_extractor) |
+
+## 💡 Featured Projects
+
+### Machine Learning & AI
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **Save The Crops** | Computer vision system for plant disease detection | TensorFlow, OpenCV | [📦 Repo](https://github.com/wukimidaire/save_the_crops_front) |
+| **Taxi Fare Predictor** | ML-powered fare estimation with cloud deployment | FastAPI, TensorFlow, GCP | [📦 Repo](https://github.com/wukimidaire/taxifair_project) |
+| **ML Model Lifecycle** | End-to-end ML model development and deployment framework | MLflow, Python | [📦 Repo](https://github.com/wukimidaire/data-model-lifecycle) |
+
+### Research & Analysis
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **.NET TAM Research** | Market analysis and data collection for .NET ecosystem | Python, Data Analysis | [📦 Repo](https://github.com/wukimidaire/BelgianNETAnalysis) |
+
+
 ---
 
 ## Relevant Experience
