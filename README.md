@@ -87,7 +87,7 @@ Action-oriented data professional specializing in end-to-end customer journey an
   - Implemented multi-channel marketing performance dashboards
 
 ### Sales Operations & Sales Lead | willow
-- **Data Analysis**: Achieved 26.86% reply rate on email campaigns (n=14,626) through continuous testing and optimization
+- **Data Analysis**: Achieved 26.86% reply rate on email campaigns (n=14,626) through continuous experimentation and optimization
 - **Process Automation**: Reduced prospecting time by 40% for 7-person sales team through automated data workflows (300+ hours saved monthly)
 - **Strategic Impact**: Generated 75%+ revenue from data-driven outbound motions
 
