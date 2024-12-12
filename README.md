@@ -192,7 +192,7 @@ Action-oriented data professional specializing in end-to-end customer journey pe
 
 ---
 
-## Education & Recent Training
+## Education & Certification
 
 <details>
   <summary><strong>Details</strong></summary>
