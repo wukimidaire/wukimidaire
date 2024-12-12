@@ -127,7 +127,7 @@ Action-oriented data professional specializing in end-to-end customer journey pe
 | **LinkedIn Ads API** | Production-grade endpoint for LinkedIn advertising data | FastAPI, Python | [📦 Repo](https://github.com/wukimidaire/linkedin_ads_scraper) |
 | **Financial Data API** | Real-time financial data extraction endpoint | Python, REST | [📦 Repo](https://github.com/wukimidaire/financial_data_extractor) |
 
-## 💡 Featured Learning Projects
+## 💡 Learning Projects
 
 ### Machine Learning & AI
 | Project | Description | Tech Stack | Links |
