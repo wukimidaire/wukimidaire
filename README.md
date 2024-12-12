@@ -5,11 +5,11 @@ Action-oriented data professional specializing in end-to-end customer journey an
 ---
 
 ## Core Competencies
-- **Data Capture & Engineering**: Data pipelines processing millions of records using Airbyte, dbt, PostgreSQL, BigQuery
 - **Strategy**: Unified operations across marketing, sales, CS, product, and revenue data
+- **Client Communication**: Workshop Innitiation, strategy alignemnt with stakeholders
+- **Data Capture & Engineering**: Data pipelines processing millions of records using Airbyte, dbt, PostgreSQL, BigQuery
 - **Visualization**: Insights driven dashboards using Metabase, Streamlit, HubSpot CRM Dashboards
 - **Advanced Analytics**: Customer Clusters, predictive GTM strategies and lead scoring
-- **Client Communication**: Workshop Innitiation, strategy alignemnt with stakeholders
 - **Languages**: Native Dutch, Fluent English
 
 ---
