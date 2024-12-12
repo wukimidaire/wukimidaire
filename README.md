@@ -23,15 +23,21 @@ SQL, Python, JavaScript, Pandas, TensorFlow, Scikit-Learn, NumPy, Matplotlib, Ke
 
 ## Portfolio
 
+Frameworks & Templates:
+
 - **DBT Bow-Tie Template** [View Repo](https://github.com/wukimidaire/dbt_bowtie_template)
 
 - **Customer Clustering & GTM Strategy**
   
 - **Postgres Templates:** Boilerplate database collection designed for multi-purpose applications. [View Repo](https://github.com/wukimidaire/postgres_table_templates)
 
+API's:
+
 - **LinkedIn Ads API:** Production grade API endpoint [View Repo](https://github.com/wukimidaire/linkedin_ads_scraper)
 
 - **Financial Data API:**  [View Repo](https://github.com/wukimidaire/financial_data_extractor)
+
+Projects:
 
 - **.NET TAM Research & Data Collection**: [View Repo](https://github.com/wukimidaire/BelgianNETAnalysis)
 
