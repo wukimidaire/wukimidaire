@@ -6,7 +6,7 @@ Action-oriented data professional specializing in end-to-end customer journey an
 
 ## Core Competencies
 - **Data Capture & Engineering**: Data pipelines processing millions of records using Airbyte, dbt, PostgreSQL, BigQuery
-- **Holistic Strategy**: Unified operating model connecting marketing, sales, CS, product, and revenue data
+- **Strategy**: Unified operations across marketing, sales, CS, product, and revenue data
 - **Visualization**: Insights driven dashboards using Metabase, Streamlit, HubSpot CRM Dashboards
 - **Advanced Analytics**: Customer Clusters, predictive GTM strategies and lead scoring
 - **Client Communication**: Workshop Innitiation, strategy alignemnt with stakeholders
@@ -52,6 +52,8 @@ Action-oriented data professional specializing in end-to-end customer journey an
 - **Postgres Templates:** Boilerplate database collection designed for multi-purpose applications. [View Repo](https://github.com/wukimidaire/postgres_table_templates)
 
 - **LinkedIn Ad Library Crawler:** Production grade API endpoint [View Repo](https://github.com/wukimidaire/linkedin_ads_scraper)
+
+- **Financial Data Crawler:**  [View Repo](https://github.com/wukimidaire/financial_data_extractor)
 
 - **.NET TAM Research & Data Collection**: [View Repo](https://github.com/wukimidaire/BelgianNETAnalysis)
 
