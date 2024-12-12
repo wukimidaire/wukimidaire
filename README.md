@@ -61,6 +61,8 @@ Action-oriented data professional specializing in end-to-end customer journey an
 
 - **Taxi Fair ML Project** [View Repo](https://github.com/wukimidaire/taxifair_project)
 
+- **ML Model Lifecycle:** [View Repo](https://github.com/wukimidaire/data-model-lifecycle)
+
 ---
 
 ## Relevant Experience
