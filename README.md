@@ -36,9 +36,12 @@ Action-oriented data professional specializing in end-to-end customer journey pe
 ---
 
 ## 🛠️ Technical Stack
-##
 
-### 💻 Programming Languages
+<table>
+<tr>
+<td width="33%">
+
+### 💻 Core Technologies
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
@@ -50,59 +53,55 @@ Action-oriented data professional specializing in end-to-end customer journey pe
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/)
 [![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white)](https://langchain.org/)
 
+### 📊 Data Processing
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)](https://matplotlib.org/)
-[![DBT](https://img.shields.io/badge/DBT-FF694B?style=flat&logo=dbt&logoColor=white)](https://www.getdbt.com/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)](https://colab.research.google.com/)
 
-### ☁️ Cloud & Infrastructure
+</td>
+<td width="33%">
+
+### ☁️ Infrastructure
 [![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/bigquery)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Google Compute](https://img.shields.io/badge/Google_Compute-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/compute)
 
-### 🔄 Data Pipeline & Orchestration
+### 🔄 Data Pipeline
 [![Prefect](https://img.shields.io/badge/Prefect-3E48A9?style=flat&logo=prefect&logoColor=white)](https://www.prefect.io/)
 [![Airbyte](https://img.shields.io/badge/Airbyte-615EFF?style=flat&logo=airbyte&logoColor=white)](https://airbyte.com/)
 [![Dagster](https://img.shields.io/badge/Dagster-1A1919?style=flat&logo=dagster&logoColor=white)](https://dagster.io/)
 [![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)](https://mlflow.org/)
+[![DBT](https://img.shields.io/badge/DBT-FF694B?style=flat&logo=dbt&logoColor=white)](https://www.getdbt.com/)
 
-### 🌐 Web & APIs
+### 🛠️ Development
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat&logo=fastapi&logoColor=white)](https://restfulapi.net/)
-
-
-### 🔍 Data Tools & Platforms
-[![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=metabase&logoColor=white)](https://www.metabase.com/) 
-[![HubSpot Dashboards](https://img.shields.io/badge/HubSpot_Dashboards-FF7A59?style=flat&logo=hubspot&logoColor=white)](https://www.hubspot.com/products/analytics)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
-
-[![n8n](https://img.shields.io/badge/n8n-6563FF?style=flat&logo=n8n&logoColor=white)](https://n8n.io/)
-[![Make.com](https://img.shields.io/badge/Make.com-335EEA?style=flat&logo=webflow&logoColor=white)](https://www.make.com/)
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
 
+</td>
+<td width="33%">
 
-
-### 📊 Data Skills
-[![Data Scraping](https://img.shields.io/badge/Data_Scraping-47A248?style=flat&logo=data&logoColor=white)](https://en.wikipedia.org/wiki/Web_scraping)
-[![Data Modeling](https://img.shields.io/badge/Data_Modeling-FF6B6B?style=flat&logo=data&logoColor=white)](https://en.wikipedia.org/wiki/Data_modeling)
-[![Data Mining](https://img.shields.io/badge/Data_Mining-4285F4?style=flat&logo=data&logoColor=white)](https://en.wikipedia.org/wiki/Data_mining)
-[![Data Activation](https://img.shields.io/badge/Data_Activation-7B61FF?style=flat&logo=data&logoColor=white)](https://en.wikipedia.org/wiki/Data_activation)
-
-### 📱 Marketing
-[![Dreamdata](https://img.shields.io/badge/Dreamdata-6366F1?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJESURBVFhH7ZY9aBRBGIbfvdwlp8kpJhqJGhVUUEQQRBEsrAQLCwuLVBY2Nv4gYmVhYWMhiI2FhYVgYWFhYWMXDUYRjUaj0RiTmMt9O+O7l93bvb3d7O0lhYUPPDc3s/POvN/M7M6GlFJwGAzD8J8VQqqqwmg0wng8lrVoNBpBURRZi8cwTdOXNxgMkM/nZW02YRiiVCrJWjwzE1BVFaZpYjgcylY0hmGgWCzKWjwzE3AcB7quI5PJyFY0tm3DsixZi2dmAo7joFarwbZtWZMkaJqGTCaDfD4PXdflVzQzEyiXy2i32ygUCrLlx7ZtVKtVX0x4pBNCyGYS/gR83xZFEh6Ph/vS/WT8CcSRJIGkxJ6ApmkYj4L7Ow7P8+A4DkqlEjzPk63JiD0BwzBQLBaRy+VkSxDe73Q6vq04HRF7AoQQgmq1ikwmI1uA53no9/vodDrSm4zYE+DFR1OtVqGqKjzPQ7/fR7vdhm3bUJTgVCUh9p0gPPVhOp0Out0uer0eXNeVThDOeUEQIJvNolKpBGInIfYEwlMRxnVddLtddDodmKYJy7LgeZ5vCzRNQz6fR61WQy6Xk63JmOtxTFPQ6/XQ7XbR7/fheV4gAU3TUCgUUK/XkcvlpDs5cyVAi46mn+/7dA1QFAWmaWIwGPjWgOd5yOfzqNfrfgJpmvvPBPgvx3Vd9Pt9X3QajQYKhYK0kjF3AmGIEOTzeRiGIVvpmfvPJMnMvQaSMlcC/O8nzQr4E/gNk+fv8WCqb5MAAAAASUVORK5CYII=)](https://dreamdata.io/)
-[![Sales Navigator](https://img.shields.io/badge/Sales_Navigator-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://business.linkedin.com/sales-solutions)
-[![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)](https://www.google.com/sheets/about/)
-[![Phantombuster](https://img.shields.io/badge/Phantombuster-000000?style=flat&logo=ghost&logoColor=white)](https://phantombuster.com/)
-[![Serper.dev](https://img.shields.io/badge/Serper.dev-000000?style=flat&logo=searchengine&logoColor=white)](https://serper.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/)
+### 📊 Analytics & BI
+[![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=metabase&logoColor=white)](https://www.metabase.com/)
+[![HubSpot](https://img.shields.io/badge/HubSpot_Dashboards-FF7A59?style=flat&logo=hubspot&logoColor=white)](https://www.hubspot.com/products/analytics)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![GA4](https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)](https://analytics.google.com/)
 
+### 🔧 Automation
+[![n8n](https://img.shields.io/badge/n8n-6563FF?style=flat&logo=n8n&logoColor=white)](https://n8n.io/)
+[![Make.com](https://img.shields.io/badge/Make.com-335EEA?style=flat&logo=webflow&logoColor=white)](https://www.make.com/)
+[![Phantombuster](https://img.shields.io/badge/Phantombuster-000000?style=flat&logo=ghost&logoColor=white)](https://phantombuster.com/)
+[![Dreamdata](https://img.shields.io/badge/Dreamdata-6366F1?style=flat&logo=)](https://dreamdata.io/)
+
+### 🎯 Data Skills
+[![Data Mining](https://img.shields.io/badge/Data_Mining-4285F4?style=flat&logo=data&logoColor=white)](https://en.wikipedia.org/wiki/Data_mining)
+[![Data Modeling](https://img.shields.io/badge/Data_Modeling-FF6B6B?style=flat&logo=data&logoColor=white)](https://en.wikipedia.org/wiki/Data_modeling)
+[![Data Activation](https://img.shields.io/badge/Data_Activation-7B61FF?style=flat&logo=data&logoColor=white)](https://en.wikipedia.org/wiki/Data_activation)
+
+</td>
+</tr>
+</table>
 
 
 ---
