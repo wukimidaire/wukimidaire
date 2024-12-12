@@ -64,11 +64,18 @@ SQL, Python, JavaScript, Pandas, TensorFlow, Scikit-Learn, NumPy, Matplotlib, Ke
 </details>
 
 ### Revenue Operations Analyst | willow
-- **End-to-End Solutions**: Designed and implemented comprehensive customer journey analytics infrastructure [(Applied Repo)](https://github.com/wukimidaire/postgres_table_templates)
-- **Data Integration**: Built unified data model connecting marketing, sales, customer success and product data
-- **Strategic Impact**:
-  - Led cross-functional digital transformation initiatives across sales, marketing, and product teams
-  - Implemented multi-channel marketing performance dashboards
+<details>
+  <summary><strong>Details</strong></summary>
+
+  - **End-to-End Solutions**: Designed and implemented comprehensive customer journey analytics infrastructure [(Applied Repo)](https://github.com/wukimidaire/postgres_table_templates)
+  
+  - **Data Integration**: Built unified data model connecting marketing, sales, customer success and product data
+
+  - **Strategic Impact**:
+    - Led cross-functional digital transformation initiatives across sales, marketing, and product teams
+    - Implemented multi-channel marketing performance dashboards
+
+</details>
 
 ### Sales Operations & Sales Lead | willow
 - **Data Analysis**: Achieved 26.86% reply rate on email campaigns (n=14,626) through continuous experimentation and optimization
