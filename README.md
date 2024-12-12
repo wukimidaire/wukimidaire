@@ -25,7 +25,7 @@ SQL, Python, JavaScript, Pandas, TensorFlow, Scikit-Learn, NumPy, Matplotlib, Ke
 
 - **DBT Bow-Tie Template** [View Repo](https://github.com/wukimidaire/dbt_bowtie_template)
 
-- - **Customer Clustering & GTM Strategy**
+- **Customer Clustering & GTM Strategy**
   
 - **Postgres Templates:** Boilerplate database collection designed for multi-purpose applications. [View Repo](https://github.com/wukimidaire/postgres_table_templates)
 
