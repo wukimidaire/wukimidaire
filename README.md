@@ -67,9 +67,9 @@ Action-oriented data professional specializing in end-to-end customer journey pe
 
 
 ### 📊 Data Skills
-[![Data Mining](https://img.shields.io/badge/Data_Mining-4285F4?style=flat&logo=data&logoColor=white)](https://en.wikipedia.org/wiki/Data_mining)
 [![Data Scraping](https://img.shields.io/badge/Data_Scraping-47A248?style=flat&logo=data&logoColor=white)](https://en.wikipedia.org/wiki/Web_scraping)
 [![Data Modeling](https://img.shields.io/badge/Data_Modeling-FF6B6B?style=flat&logo=data&logoColor=white)](https://en.wikipedia.org/wiki/Data_modeling)
+[![Data Mining](https://img.shields.io/badge/Data_Mining-4285F4?style=flat&logo=data&logoColor=white)](https://en.wikipedia.org/wiki/Data_mining)
 
 ### 📱 Marketing
 [![Dreamdata](https://img.shields.io/badge/Dreamdata-6366F1?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJESURBVFhH7ZY9aBRBGIbfvdwlp8kpJhqJGhVUUEQQRBEsrAQLCwuLVBY2Nv4gYmVhYWMhiI2FhYVgYWFhYWMXDUYRjUaj0RiTmMt9O+O7l93bvb3d7O0lhYUPPDc3s/POvN/M7M6GlFJwGAzD8J8VQqqqwmg0wng8lrVoNBpBURRZi8cwTdOXNxgMkM/nZW02YRiiVCrJWjwzE1BVFaZpYjgcylY0hmGgWCzKWjwzE3AcB7quI5PJyFY0tm3DsixZi2dmAo7joFarwbZtWZMkaJqGTCaDfD4PXdflVzQzEyiXy2i32ygUCrLlx7ZtVKtVX0x4pBNCyGYS/gR83xZFEh6Ph/vS/WT8CcSRJIGkxJ6ApmkYj4L7Ow7P8+A4DkqlEjzPk63JiD0BwzBQLBaRy+VkSxDe73Q6vq04HRF7AoQQgmq1ikwmI1uA53no9/vodDrSm4zYE+DFR1OtVqGqKjzPQ7/fR7vdhm3bUJTgVCUh9p0gPPVhOp0Out0uer0eXNeVThDOeUEQIJvNolKpBGInIfYEwlMRxnVddLtddDodmKYJy7LgeZ5vCzRNQz6fR61WQy6Xk63JmOtxTFPQ6/XQ7XbR7/fheV4gAU3TUCgUUK/XkcvlpDs5cyVAi46mn+/7dA1QFAWmaWIwGPjWgOd5yOfzqNfrfgJpmvvPBPgvx3Vd9Pt9X3QajQYKhYK0kjF3AmGIEOTzeRiGIVvpmfvPJMnMvQaSMlcC/O8nzQr4E/gNk+fv8WCqb5MAAAAASUVORK5CYII=)](https://dreamdata.io/)
