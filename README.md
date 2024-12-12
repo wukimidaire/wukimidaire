@@ -110,34 +110,7 @@ Action-oriented data professional specializing in end-to-end customer journey pe
 
 ---
 
-## Portfolio
-
-Frameworks & Templates:
-
-- **DBT Bow-Tie Template** [View Repo](https://github.com/wukimidaire/dbt_bowtie_template)
-
-- **Customer Clustering & GTM Strategy**
-  
-- **Postgres Templates:** Boilerplate database collection designed for multi-purpose applications. [View Repo](https://github.com/wukimidaire/postgres_table_templates)
-
-API's:
-
-- **LinkedIn Ads API:** Production grade API endpoint [View Repo](https://github.com/wukimidaire/linkedin_ads_scraper)
-
-- **Financial Data API:**  [View Repo](https://github.com/wukimidaire/financial_data_extractor)
-
-Projects:
-
-- **.NET TAM Research & Data Collection**: [View Repo](https://github.com/wukimidaire/BelgianNETAnalysis)
-
-- **Save The Crops:** A computer vision project to identify plant diseases from leaf images. [View Repo](https://github.com/wukimidaire/save_the_crops_front)
-
-- **Taxi Fair ML Project** [View Repo](https://github.com/wukimidaire/taxifair_project)
-
-- **ML Model Lifecycle:** [View Repo](https://github.com/wukimidaire/data-model-lifecycle)
-
-
-
+# Portfolio
 
 ## 🏗️ Frameworks & Templates
 
@@ -145,14 +118,14 @@ Projects:
 |---------|-------------|------------|-------|
 | **DBT Bow-Tie Template** | Data transformation template for analytics engineering | DBT, SQL, Python | [📦 Repo](https://github.com/wukimidaire/dbt_bowtie_template) |
 | **Customer Clustering & GTM Strategy** | Market segmentation and go-to-market analysis framework | Python, Scikit-learn | [🔗 Details](#) |
-| **Postgres Templates** | Production-ready database boilerplates for scalable applications | PostgreSQL, SQL | [📦 Repo](https://github.com/wukimidaire/postgres_table_templates) |
+| **Postgres Templates** | Production-ready database code | PostgreSQL(-functions) | [📦 Repo](https://github.com/wukimidaire/postgres_table_templates) |
 
 ## 🚀 APIs
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
 | **LinkedIn Ads API** | Production-grade endpoint for LinkedIn advertising data | FastAPI, Python | [📦 Repo](https://github.com/wukimidaire/linkedin_ads_scraper) |
-| **Financial Data API** | Real-time financial data extraction service | Python, REST | [📦 Repo](https://github.com/wukimidaire/financial_data_extractor) |
+| **Financial Data API** | Real-time financial data extraction endpoint | Python, REST | [📦 Repo](https://github.com/wukimidaire/financial_data_extractor) |
 
 ## 💡 Featured Projects
 
@@ -160,8 +133,8 @@ Projects:
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
 | **Save The Crops** | Computer vision system for plant disease detection | TensorFlow, OpenCV | [📦 Repo](https://github.com/wukimidaire/save_the_crops_front) |
-| **Taxi Fare Predictor** | ML-powered fare estimation with cloud deployment | FastAPI, TensorFlow, GCP | [📦 Repo](https://github.com/wukimidaire/taxifair_project) |
-| **ML Model Lifecycle** | End-to-end ML model development and deployment framework | MLflow, Python | [📦 Repo](https://github.com/wukimidaire/data-model-lifecycle) |
+| **Taxi Fare Predictor** | ML-powered fare estimation with CI/CD cloud deployment | FastAPI, TensorFlow, GCP | [📦 Repo](https://github.com/wukimidaire/taxifair_project) |
+| **ML Model Lifecycle** | End-to-end ML model development and deployment project | MLflow, Python | [📦 Repo](https://github.com/wukimidaire/data-model-lifecycle) |
 
 ### Research & Analysis
 | Project | Description | Tech Stack | Links |
