@@ -19,7 +19,7 @@ Action-oriented data professional specializing in end-to-end customer journey an
 ### Programming & Query Languages
 - **SQL**
 - **Python**
-- **TypeScript**
+- **JavaScript**
 
 ### Development & Infrastructure
 - **DBT**
