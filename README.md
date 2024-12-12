@@ -46,6 +46,7 @@ SQL, Python, JavaScript, Pandas, TensorFlow, Scikit-Learn, NumPy, Matplotlib, Ke
 ## Relevant Experience
 
 ### GTM Automations | Aikido Security
+<details>
 - **Digital Footprint Crawling**: Engineered advanced systems to collect and analyze comprehensive datasets [(Applied Repo)](https://github.com/wukimidaire/postgres_table_templates)
 - **Strategic Impact**:
   - Increased LinkedIn Awareness Campaigns by 500% MoM through account targetting
@@ -54,6 +55,7 @@ SQL, Python, JavaScript, Pandas, TensorFlow, Scikit-Learn, NumPy, Matplotlib, Ke
   - Agentic Sales Research Assistant & Cold email writer
 - **Predictive Analytics:**
   - Leveraged digital footprint data for customer clustering, predictive GTM scoring
+</details>
 
 ### Revenue Operations Analyst | willow
 - **End-to-End Solutions**: Designed and implemented comprehensive customer journey analytics infrastructure [(Applied Repo)](https://github.com/wukimidaire/postgres_table_templates)
