@@ -34,6 +34,7 @@ Action-oriented data professional specializing in end-to-end customer journey pe
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)](https://matplotlib.org/)
 [![DBT](https://img.shields.io/badge/DBT-FF694B?style=flat&logo=dbt&logoColor=white)](https://www.getdbt.com/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)](https://colab.research.google.com/)
 
 ### ☁️ Cloud & Infrastructure
 [![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
@@ -57,7 +58,6 @@ Action-oriented data professional specializing in end-to-end customer journey pe
 [![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=metabase&logoColor=white)](https://www.metabase.com/) 
 [![HubSpot Dashboards](https://img.shields.io/badge/HubSpot_Dashboards-FF7A59?style=flat&logo=hubspot&logoColor=white)](https://www.hubspot.com/products/analytics)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)](https://colab.research.google.com/)
 
 [![n8n](https://img.shields.io/badge/n8n-6563FF?style=flat&logo=n8n&logoColor=white)](https://n8n.io/)
 [![Make.com](https://img.shields.io/badge/Make.com-335EEA?style=flat&logo=webflow&logoColor=white)](https://www.make.com/)
