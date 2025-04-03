@@ -1,6 +1,6 @@
 
 ## Summary
-Action-oriented data professional specializing in end-to-end customer journey performance. Proven track record of transforming business requirements into actionable data insights. Known for bridging technical and business teams while delivering measurable ROI. Current focus on agentic business value.
+Action-oriented data professional specializing in end-to-end customer journey performance. Proven track record of transforming business requirements into actionable data insights. Known for bridging technical and business teams while delivering measurable ROI.
 
 Currently learning Neo4J
 
