@@ -121,6 +121,7 @@ Currently learning Neo4J
 | **DBT Data Model Framework** | Data transformation template for analytics engineering | DBT, Streamlit | [📦 Repo](https://github.com/wukimidaire/dbt_bowtie_template) |
 | **GTM Agent Framework** | Automates TAM Collection & Research, Monitors Competitors, Clusters Customers & Go-To-Market Strategy Activation | N8N, Scikit-learn, Streamlit, LangChain | [🔐 Private](#) |
 | **Postgres Boilerplate Templates** | Production-Ready and Open-Sourced: Now available for others to contribute to and apply | PostgreSQL | [📦 Repo](https://github.com/wukimidaire/postgres_table_templates) |
+| **Sales Navigator URL Splitter** | SalesNav limit to scrape 2500 profiles, this tool enables you to scrape millions of profiles  | Streamlit, Python, N8N | [📦 Repo](https://salesnavsearch.streamlit.app/) |
 
 ## 🚀 APIs
 
