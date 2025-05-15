@@ -110,12 +110,13 @@ Currently learning Neo4J
 
 ---
 
-# Services: Programmatic Go-To-Market
+# Services
 
-- [Module 1: How do you scale word of mouth?](https://bit.ly/4kp92Dt)
+## Programmatic Go-To-Market
 
-
-
+| Module | Link |
+|--------|------|
+| How do you scale word of mouth? | [Learn more](https://bit.ly/4kp92Dt) |
 
 ---
 
