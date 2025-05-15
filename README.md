@@ -1,4 +1,3 @@
-
 ## Summary
 Action-oriented data professional specializing in end-to-end customer journey performance. Proven track record of transforming business requirements into actionable data insights. Known for bridging technical and business teams while delivering measurable ROI.
 
@@ -108,6 +107,14 @@ Currently learning Neo4J
 </td>
 </tr>
 </table>
+
+---
+
+# Services: Programmatic Go-To-Market
+
+- [Module 1: How do you scale word of mouth?](https://bit.ly/4kp92Dt)
+
+
 
 
 ---
@@ -232,3 +239,4 @@ Currently learning Neo4J
 - **Increased marketing qualified leads by 45% using predictive scoring**
 - **Engineered TAM-Research System (total addressable market), real-time CRM updates**
 - **Generated €1.44M in pipeline (1Y) revenue as first commercial hire at B2B SaaS startup**
+
